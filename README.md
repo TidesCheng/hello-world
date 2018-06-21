@@ -1,2 +1,2 @@
 # hello-world
-just to open a new world
+Hi humam beings!
